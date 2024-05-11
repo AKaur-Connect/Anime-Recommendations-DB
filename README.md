@@ -11,6 +11,9 @@ The database consists of five tables:
 - AnimeRecommendations: Captures user recommendations for specific anime titles.
 - UserAnimeRatings: Stores individual user ratings for anime titles.
 
+## ER Diagram 
+
+![ER Diagram](https://github.com/AKaur-Connect/anime-recommendations-db/blob/main/ER%20Diagram.png)
 ## Views
 Several views have been created to facilitate data analysis and summarization:
 
