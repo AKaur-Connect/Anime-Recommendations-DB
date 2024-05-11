@@ -1,7 +1,7 @@
 # Anime Database Project
 ## Overview
 This project involves designing and implementing a database schema for managing anime-related information, including anime titles, user interactions, recommendations, and ratings. The database schema is tailored for a platform where users can engage with anime content, share recommendations, and provide ratings.
-
+![Anime Snapshot](https://github.com/AKaur-Connect/anime-recommendations-db/blob/main/Anime%20Snapshot.png)
 ## Dataset
 The database consists of five tables:
 
